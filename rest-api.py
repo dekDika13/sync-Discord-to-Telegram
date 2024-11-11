@@ -95,4 +95,4 @@ def check_usernames():
     return jsonify(results), 200
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host=host_ip, debug=True)
