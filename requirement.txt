@@ -1,3 +1,6 @@
 discord.py
 python-telegram-bot
 aiohttp
+Flask
+flask_cors
+requests
