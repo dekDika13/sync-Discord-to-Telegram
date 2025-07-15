@@ -6,9 +6,9 @@ import os
 import aiohttp
 
 # Token bot Discord dan Telegram
-DISCORD_TOKEN = "MTMwNDAzNTM2NDU3ODUyOTM0MQ.GayI7l.eORHHHMaPoiVG8bHQALxwNBMuMJ4bFkkYIGPtM"
-TELEGRAM_TOKEN = "7705031894:AAGBY7cliOPmzsgFH3XnAE5RarXrvnfEfrM"
-TELEGRAM_CHAT_ID = "-926505515"
+DISCORD_TOKEN = 
+TELEGRAM_TOKEN = 
+TELEGRAM_CHAT_ID = 
 
 # Inisialisasi bot Telegram
 telegram_bot = Bot(token=TELEGRAM_TOKEN)
