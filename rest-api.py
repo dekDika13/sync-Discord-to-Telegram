@@ -9,8 +9,8 @@ app = Flask(__name__)
 CORS(app) 
 
 # Ganti dengan token bot Anda
-TELEGRAM_BOT_TOKEN = '7705031894:AAGBY7cliOPmzsgFH3XnAE5RarXrvnfEfrM'
-TELEGRAM_API_URL = f'https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}'
+TELEGRAM_BOT_TOKEN =
+TELEGRAM_API_URL = 
 
 def check_telegram_username(username):
     """
